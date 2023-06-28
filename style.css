@@ -1,0 +1,144 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+header{
+    background-color: #87509C;
+    color:w
+}
+#btn{
+    background-color: #EB7D4B;
+    margin-top: 30px;
+}
+#btn_message{
+    background-color: #30BAE7;
+    margin-top: 30px;
+}
+#navbar{
+    text-align: center;
+}
+#navbarSupportedContent ul li a{
+    color:white;
+    border-radius: 5px;
+    
+}
+
+#navbarSupportedContent ul li a:hover{
+    background-color: #643A79;
+}
+#nav-item-first{
+    background-color: #643A79;
+    border-radius: 5px;
+}
+@media only screen and (max-width: 600px) {
+    #navbarSupportedContent ul li a:hover{
+        background-color: #643A79;
+        width:20%;
+        margin: auto;
+    }
+    #nav-item-first{
+        background-color: #643A79;
+        border-radius: 5px;
+        width:20%;
+        margin:auto;
+        text-align: center;
+    }
+    #team-icon-box {
+        margin-top: 10px;
+      }
+   #team-icon-box i {
+        font-size: 8px;
+        background-color: rgb(0, 0, 0);
+        padding: 6px;
+        width: 24px;
+        border-radius: 100%;
+        color:#fbfbfc;
+      }
+      
+   
+    #portfolio_box_part img{
+        width: 266px;
+    }
+    #portfolio_box_part h3{
+        font-size: 15px;
+    }
+    #about_us_box_part img{
+        width:50px;
+    }
+    #about_us_box_part p{
+        font-size:8px;
+    }
+    #about_us_box_part h3{
+        font-size:8px;
+    }
+    #about_us_box_part h4{
+        font-size:8px;
+    }
+    #skills_part img{
+        width:100px;
+        margin-top: 20px;
+    }
+} 
+
+
+#service{
+    background-color: #17C2A4;
+}
+.underline{
+    border:5px solid #00000065;
+    width: 7%;
+    margin:20px auto;
+    
+}
+
+#team_part{
+    background-color:#E7F1F8 ;
+}
+
+.team-icon-box {
+    margin-top: 10px;
+  }
+.team-icon-box i {
+    font-size: 17px;
+    background-color: rgb(0, 0, 0);
+    padding: 12px;
+    width: 45px;
+    border-radius: 100%;
+    color:#ffffff;
+  }
+  #skills_part{
+    background-color: #FFFFFF;
+  }
+  #portfolio_part{
+    background-color: #FFDD99;
+  }
+ #portfolio_box_part{
+    margin:30px;
+    
+ }
+ #portfolio_box_part h3{
+    margin:30px;
+ }
+ #about_us_part{
+    background-color: #D74680;
+    
+ }
+#about_us_box_part{
+    margin-top: 50px;
+}
+#send_message_part{
+    background-color:#3C5499 ;
+}
+#message_box{
+    margin-bottom: 30px;
+}
+#footer_par{
+    background-color: #344B8E;
+}
+#nav_footer{
+    width:80%;
+    margin: auto;
+    font-size: 25px;
+  
+}
